@@ -1,4 +1,4 @@
-# Первый тестовый проект: Active Box
+# Первый проект: Active Box
 
 Ссылка на проект: https://utkamag.github.io/Web_site_1/
 
